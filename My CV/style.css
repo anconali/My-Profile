@@ -1,0 +1,173 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background: #000;
+}
+
+.containers{
+    width: 85%;
+    height: 1000px;
+    background: rgb(0, 0, 0);
+    margin-left: 100px;
+}
+
+.personal{
+    width: 30%;
+    height: 100%;
+    background: rgb(8, 75, 129);
+    float: left;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid white;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+p{
+    font-size: 2em;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    margin-top: -2px;
+}
+
+.p1{
+    font-size: 1.4em;
+    color: white;
+    text-align: center;
+    margin-top: -25px;
+}
+
+.hr1{
+    width: 100px;
+    height: 2px;
+    color: wheat;
+    background: white;
+    border-radius: 10px;
+    margin-top: -30px;
+}
+
+.h4{
+    color: white;
+    font-size: 1.2em;
+    margin-left: 20px;
+}
+
+.pre2{
+    font-size: 1.2em;
+    color: white;
+    margin-top: -20px;
+    margin-left: 20px;
+    line-height: 20px;
+}
+
+.a{
+    text-decoration: none;
+    color: white;
+    font-size: 1em;
+}
+
+.pre3{
+    font-size: 1.2em;
+    color: white;
+    margin-top: -50px;
+    margin-left: 20px;
+    line-height: 20px;
+}
+
+.h5{
+    color: white;
+    font-size: 1.4em;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.pre4{
+    font-size: 1.1em;
+    color: white;
+    margin-top: 1px;
+    margin-left: 20px;
+    line-height: 30px;
+}
+
+
+/*personal end*/
+
+.public{
+    width: 70%;
+    height: 100%;
+    background: white;
+    float: right;
+}
+
+.h2{
+    color: rgb(8, 75, 129);
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+.pre11{
+    font-size: 1.1em;
+    color: rgb(0, 0, 0);
+    margin-top: -20px;
+    margin-left: 20px;
+    line-height: 25px;
+    text-align: justify;
+}
+
+.h5pro{
+    color: black;
+    margin-left: 20px;
+    margin-top: -10px;
+    font-size: 1.1em;
+}
+
+.h5pro1{
+    color: rgb(148, 147, 147);
+    margin-left: 20px;
+    margin-top: -19px;
+    font-size: 1em;
+}
+
+.ul1{
+    margin-top: -20px;
+}
+
+.h5pro4{
+    font-size: 1.1em;
+}
+
+.h5pro6{
+    font-size: 1em;
+    margin-top: -40px;
+}
+
+.h12{
+    margin-top: -5px;
+    margin-left: 20px;
+    color: rgb(8, 75, 129);
+}
+
+.ul2{
+    float: left;
+    margin-top: -15px;
+    margin-left: -40px;
+}
+
+.ul22{
+    display: inline-block;
+    margin-left: 20px;
+    background: #000;
+    border-radius: 3px;
+}
+
+.ul23{
+    text-decoration: none;
+    font-size: 1em;
+    color: rgb(255, 255, 255);
+}
+
+
